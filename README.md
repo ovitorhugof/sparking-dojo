@@ -8,6 +8,7 @@ Guia interativo em português para aperfeiçoar a aprendizagem em **Dragon Ball:
 
 - 6 módulos e 18 aulas do básico ao avançado, com exercícios e metas.
 - Layouts Padrão e Clássico, com comandos atualizados na interface.
+- Imagem oficial do DualSense com botões interativos e explicações em linguagem simples.
 - Defesa de Galick Gun e feixes, agarrões, golpes pelas costas e perseguições.
 - Laboratório com 6 rotas de treino, condições e limites explícitos.
 - Sessões de 15 minutos, cronômetro e exercício de atenção.
