@@ -2,18 +2,19 @@
 
 **Site:** https://ovitorhugof.github.io/sparking-dojo/
 
-Guia interativo em português para aperfeiçoar a aprendizagem em **Dragon Ball: Sparking! ZERO**, com foco no **DualSense / PS5**. Responsivo para PC e celular. Projeto independente de fã, gratuito e sem afiliação oficial.
+Guia interativo em português para aperfeiçoar a aprendizagem em **Dragon Ball: Sparking! ZERO**, com foco no **DualSense / PS5**. Responsivo para PC e celular. Projeto independente, gratuito e sem vínculo oficial.
 
 ## Recursos
 
 - 6 módulos e 18 aulas do básico ao avançado, com exercícios e metas.
 - Layouts Padrão e Clássico, com comandos atualizados na interface.
 - Imagem oficial do DualSense com botões interativos e explicações em linguagem simples.
+- Medidor de Ki por pressão contínua e Dragon Radar com sete desafios rápidos.
 - Defesa de Galick Gun e feixes, agarrões, golpes pelas costas e perseguições.
 - Laboratório com 6 rotas de treino, condições e limites explícitos.
 - Sessões de 15 minutos, cronômetro e exercício de atenção.
 - Checklist, caderno e exportação/importação de progresso.
-- Apresentação temática, imagens e fontes incorporadas.
+- Apresentação temática, arte principal enquadrada sem cortes, imagens e fontes incorporadas.
 
 ## Executar
 
