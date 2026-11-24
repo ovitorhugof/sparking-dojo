@@ -27,3 +27,9 @@ O progresso utilizado na verificação foi devolvido a zero e o caderno de teste
 ## Versão incorporada
 
 O HTML final também passou por verificação de sintaxe dos scripts e teste no navegador: 6 módulos, família de fonte correta, símbolo carregado por data URL e aula do Galick Gun com comandos Clássicos.
+
+## Revisão de linguagem e controle interativo
+
+Em 24/11/2026, as 18 aulas foram reescritas em linguagem mais simples. IDs e comandos dos dois layouts foram comparados com a versão anterior: preservados. A revisão também passou por verificação de sintaxe e referência de comandos.
+
+Foram testadas 22 explicações de botões (11 em cada layout), a atualização ao trocar de Padrão para Clássico, o salvamento de uma aula após recarregar e a retirada dessa marca ao fim do teste. Em largura útil de 375 px, a página e a lista de botões ficaram sem transbordamento horizontal.
