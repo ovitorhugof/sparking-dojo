@@ -1,6 +1,6 @@
 # Origem dos materiais visuais
 
-Projeto educacional independente de fã, sem venda de materiais, anúncios ou afiliação oficial. Os créditos identificam os titulares; não constituem uma licença de redistribuição das imagens. Os materiais do jogo não estão cobertos por uma licença de código deste projeto.
+Projeto educacional independente, sem venda de materiais, anúncios ou vínculo oficial. Os créditos identificam os titulares; não constituem uma licença de redistribuição das imagens. Os materiais do jogo não estão cobertos por uma licença de código deste projeto.
 
 | Arquivo | Origem |
 | --- | --- |
