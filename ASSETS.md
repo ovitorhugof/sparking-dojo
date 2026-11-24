@@ -11,7 +11,7 @@ Projeto educacional independente de fã, sem venda de materiais, anúncios ou af
 | `assets/vegeta-z-scouter.webp` | Mesmo elenco, thumbnail `dbsz-character-thumbnail-vegeta-z-scouter.jpg`. |
 | `assets/piccolo.webp` | Mesmo elenco, thumbnail `dbsz-character-thumbnail-piccolo.jpg`. |
 | `assets/krillin.webp` | Mesmo elenco, thumbnail `dbsz-character-thumbnail-krillin.jpg`. |
-| `assets/dualsense.svg` | Ilustração esquemática vetorial criada para o projeto. Não é fotografia ou diagrama oficial Sony. |
+| `assets/dualsense-real.jpg` | Imagem oficial do DualSense branco, da [página de acessórios PlayStation](https://www.playstation.com/pt-br/accessories/dualsense-wireless-controller/). [Arquivo de origem](https://gmedia.playstation.com/is/image/SIEPDC/dualsense-controller-image-block-01-ps5-26jun20?$800px$). Botões interativos são elementos HTML sobre a imagem. |
 | `assets/dojo.svg` | Símbolo vetorial do projeto, inspirado na linguagem visual de Dragon Ball. Não é a marca oficial do jogo. |
 | Ícones de interface | Vetores inline em `app.js`, traços geométricos simples criados para as funções do guia. |
 
