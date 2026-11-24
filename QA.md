@@ -33,3 +33,9 @@ O HTML final também passou por verificação de sintaxe dos scripts e teste no 
 Em 24/11/2026, as 18 aulas foram reescritas em linguagem mais simples. IDs e comandos dos dois layouts foram comparados com a versão anterior: preservados. A revisão também passou por verificação de sintaxe e referência de comandos.
 
 Foram testadas 22 explicações de botões (11 em cada layout), a atualização ao trocar de Padrão para Clássico, o salvamento de uma aula após recarregar e a retirada dessa marca ao fim do teste. Em largura útil de 375 px, a página e a lista de botões ficaram sem transbordamento horizontal.
+
+## Extras temáticos e enquadramento da arte
+
+Em 24/11/2026, o enquadramento do hero foi alterado para mostrar a arte promocional completa, inclusive em telas largas. As referências visíveis a “guia de fã” foram substituídas por “projeto independente”.
+
+O Dragon Radar foi testado no computador e em largura útil de 375 px: sorteia missões, habilita a confirmação e atualiza as sete esferas. O medidor de Ki foi verificado por sintaxe, atributos de progresso e comportamento de pressão contínua. Não houve transbordamento horizontal nos dois tamanhos testados.
